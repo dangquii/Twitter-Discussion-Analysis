@@ -71,7 +71,7 @@ jupyter notebook notebooks/SDG5_Twitter_Analysis.ipynb
 
 **Phu Qui Dang**  
 Master of Business Analytics (Data Science)  
-[LinkedIn](https://www.linkedin.com/in/phu-qui-dang-706bb1218/) • [GitHub](https://github.com/dangquii)
+[LinkedIn](https://www.linkedin.com/in/phuquidang/) • [GitHub](https://github.com/dangquii)
 
 ---
 
