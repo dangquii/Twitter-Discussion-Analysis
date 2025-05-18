@@ -39,11 +39,11 @@ To build an end-to-end pipeline that extracts, processes, and analyzes Twitter d
 
 **Sentiment Over Time**
 
-![Sentiment](sentiment_analysis.png)
+![Sentiment](visualizations/sentiment_analysis.png)
 
 **Word Frequency (Word Cloud)**
 
-![WordCloud](word_cloud.png)
+![WordCloud](visualizations/word_cloud.png)
 
 ---
 
